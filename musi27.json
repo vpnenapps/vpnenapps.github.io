@@ -1,6 +1,6 @@
 {
     "privacy_url" : "",
-    "close" : "true",
+    "close" : "false",
     "enable_permission" : "false",
     "appworker" : "false", 
     "appworkerperiod" : "59",
