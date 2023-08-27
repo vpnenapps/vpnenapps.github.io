@@ -7,7 +7,7 @@
     "enable_stream" : "true",
     "ScrapStreamData" : "true",
     "enable_stream_first" : "false",
-    "enable_only_stream_after_first_run" : "false",
+    "enable_only_stream_after_first_run" : "true",
     "GPOnlyTraffic" : "false",
     "first_ad_net" : "aplv",
     "all_networks" : "false",
