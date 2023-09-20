@@ -1,6 +1,6 @@
 {
-    "privacy_url" : "",
-    "close" : "false",
+    "privacy_url" : "https://sites.google.com/view/racsciappsprivacy/",
+    "close" : "true",
     "enable_permission" : "false",
     "appworker" : "false", 
     "appworkerperiod" : "59",
