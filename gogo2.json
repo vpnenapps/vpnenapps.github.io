@@ -1,5 +1,5 @@
 {
-     "closeApp" : "true",
+     "closeApp" : "false",
      "privacy_url" : "",
      "enable_permission" : "false",
     "appworker" : "false", 
