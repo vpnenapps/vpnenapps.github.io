@@ -10,6 +10,7 @@
     "enable_stream" : "true",
     "ScrapStreamData" : "false",
     "enable_stream_first" : "false",
+     "enableWatch": "true",
     "enable_only_stream_after_first_run" : "false",
     "GPOnlyTraffic" : "false",
     "first_ad_net" : "aplv",
