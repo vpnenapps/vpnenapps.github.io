@@ -11,7 +11,7 @@
     "ScrapStreamData" : "true",
     "enable_stream_first" : "false",
      "disableWatch": "false",
-    "enable_only_stream_after_first_run" : "true",
+    "enable_only_stream_after_first_run" : "false",
     "GPOnlyTraffic" : "false",
     "first_ad_net" : "fb",
     "all_networks" : "false",
