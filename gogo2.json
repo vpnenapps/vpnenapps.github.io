@@ -16,7 +16,7 @@
     "first_ad_net" : "fb",
     "all_networks" : "false",
     "content_native_enable" : "false",
-    "fb_banner_enable" : "true",
+    "fb_banner_enable" : "false",
     "fb_inter_enable" : "true",
     "fb_native_enable" : "false",
     "fb_banner_id": "849747670138443_850173260095884",
