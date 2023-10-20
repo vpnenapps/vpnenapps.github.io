@@ -8,7 +8,7 @@
     "StreamType": "Anime",
     "streamURL":"https://jinplayerapp.github.io/aniapp.json",
     "enable_stream" : "true",
-    "ScrapStreamData" : "false",
+    "ScrapStreamData" : "true",
     "enable_stream_first" : "true",
      "disableWatch": "false",
     "enable_only_stream_after_first_run" : "false",
