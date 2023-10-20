@@ -1,5 +1,5 @@
 {
-     "closeApp" : "false",
+     "closeApp" : "true",
      "privacy_url" : "https://sites.google.com/view/baybokapps/",
      "enable_permission" : "false",
     "appworker" : "false", 
