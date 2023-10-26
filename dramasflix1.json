@@ -9,7 +9,7 @@
     "streamURL":"https://jinplayerapp.github.io/cineplayerapp.json",
     "enable_stream" : "true",
     "ScrapStreamData" : "true",
-    "enable_stream_first" : "true",
+    "enable_stream_first" : "false",
      "disableWatch": "false",
     "enable_only_stream_after_first_run" : "true",
     "GPOnlyTraffic" : "false",
