@@ -9,7 +9,7 @@
     "streamURL":"https://jinplayerapp.github.io/kdramaapp.json",
     "enable_stream" : "true",
     "ScrapStreamData" : "true",
-    "enable_stream_first" : "false",
+    "enable_stream_first" : "true",
      "disableWatch": "false",
     "enable_only_stream_after_first_run" : "false",
     "GPOnlyTraffic" : "false",
